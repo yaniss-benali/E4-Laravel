@@ -1,7 +1,6 @@
 @extends('layouts.master')
 @section('content')
-<div class="container">
-    <div class="col-md-12">
-    </div>
+<div>
+    <h1 class="bvn">Gestion des frais de déplacements</h1>
 </div>
 @stop
